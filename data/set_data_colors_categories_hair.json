@@ -1,0 +1,1 @@
+near call social.near set '{"data":{"zavodil.near":{"avtr":{"colors_categories":{"hair":{"auburn":"","black":"","blonde":"","blondeGolden":"","brown":"","brownDark":"","pastelPink":"","platinum":"","red":"","silverGray":""}}}}}}' --accountId $USER_ID --deposit 0.2 --gas 300000000000000
