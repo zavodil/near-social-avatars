@@ -35,4 +35,9 @@ Widgets:
 - [Avatar image viewer](https://near.social/#/zavodil.near/widget/social-avatar-image)
 - [Owned avatars gallery](https://near.social/#/zavodil.near/widget/owned-social-avatars)
 - [Add avatar components](https://near.social/#/zavodil.near/widget/add-avatar-component)
-    
+
+----
+
+Based on:
+- Avataaars Library by Pablo Stanley https://github.com/HB0N0/AvataaarsJs
+- Generative Avatars on NEAR-SDK-JS https://github.com/zavodil/near-sdk-js/tree/generative-avatar/examples/nft-generative-avatar
