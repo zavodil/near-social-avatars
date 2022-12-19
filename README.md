@@ -35,6 +35,7 @@ Widgets:
 - [Avatar image viewer](https://near.social/#/zavodil.near/widget/social-avatar-image)
 - [Owned avatars gallery](https://near.social/#/zavodil.near/widget/owned-social-avatars)
 - [Add avatar components](https://near.social/#/zavodil.near/widget/add-avatar-component)
+- [All social avatars](https://near.social/#/zavodil.near/widget/all-social-avatars)
 
 ----
 
